@@ -1,0 +1,18 @@
+atomicwrites==1.4.1
+attrs==21.2.0
+beautifulsoup4==4.11.1
+certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+charset-normalizer==3.0.1
+colorama==0.4.6
+idna==3.4
+iniconfig==1.1.1
+packaging==20.9
+pluggy==0.13.1
+py==1.10.0
+pyparsing==2.4.7
+pytest==6.2.4
+requests==2.28.2
+soupsieve==2.3.2.post1
+toml==0.10.2
+urllib3==1.26.14
+wincertstore==0.2
